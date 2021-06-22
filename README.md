@@ -1,6 +1,6 @@
 # Reset the Trial Version of Internet Download Manager (IDM)
 
-Use this tool to reset the trial period of Internet Download Manager (IDM). It is very simple to use and you will reset the trial version of this software in a few minutes. This tool has nice interface and you don't need to be a proffesional in order to run it.
+Use this tool to reset the trial period of Internet Download Manager (IDM). It is very simple to use and you will reset the trial version of this software in a few minutes. This tool has nice interface and you don't need to be a proffesional in order to run it. It is server based tool which will reset and clean your registry from any previous Internet Download Manager installations. 
 
 
 
@@ -22,6 +22,20 @@ Follow these steps to run the reset tool successfully:
 8. You are done!
 
 
+To sum up, the process of resetting the trial period of Internet Download Manager using the Resetter is very simple. This tool is constantly updated so you can always be sure that the same is working with the latest Internet Download Manager version.
+
+## Advantages
+
+Below are some advantages you will get using the IDM Trial Resetter.
+
+1. Use the full version of Internet Download Manager without cracking.
+2. You will not need to enter any license keys.
+3. All IDM premium features will be unlocked for a lifetime.
+4. It is completely free!
+
+
 ## License
 
 [MIT](LICENSE) License.
+
+
