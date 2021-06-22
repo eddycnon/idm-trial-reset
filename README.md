@@ -12,7 +12,7 @@ The latest version of this reset tool is here: [Internet Download Manager (IDM T
 
 Follow these steps to run the reset tool successfully:
 
-1. Download the IDM Trial Reset Tool from the link above.
+1. Download the tool from here [IDM Trial Reset Tool)](https://www.trialresetter.com/idm-trial-resetter/) or from the link above.
 2. Extract the zip file and enter the desired password.
 3. Run the setup and wait for the installation to complete.
 4. Run the shortcut called (IDM Trial Resetter) which is placed on your desktop. 
