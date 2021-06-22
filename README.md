@@ -1,23 +1,13 @@
-# IDM trial reset
+# Reset the Trial Version of Internet Download Manager
 
-[![GitHub release](https://img.shields.io/github/release/J2TeaM/idm-trial-reset.svg?maxAge=2592000)](https://github.com/J2TeaM/idm-trial-reset/releases/latest)
-[![license](https://img.shields.io/github/license/J2TeaM/idm-trial-reset.svg?maxAge=2592000)](https://github.com/J2TeaM/idm-trial-reset/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/juno_okyo.svg?label=Follow&maxAge=2592000)](https://twitter.com/juno_okyo)
+Use this tool to reset the trial period of Internet Download Manager (IDM). It is very simple to use and you will reset the trial version of this software in a few minutes.
 
-Use IDM forever without cracking. If you can, [buy a license](https://j2team.dev/go/32449752) to support the developer.
 
-## Screenshot
-
-![idm-trial-reset](https://i.imgur.com/xUGaHMK.gif)
 
 ## Download
 
-You can get the latest version [here](https://github.com/J2TeaM/idm-trial-reset/releases/latest).
+You can get the latest version here[Internet Download Manager (IDM Trial Resetter)](https://www.trialresetter.com/idm-trial-resetter/).
 
-## Credits
-
-- idmresettrial (original author)
-- [Helge Klein](https://helgeklein.com/) (for SetACL)
 
 ## License
 
