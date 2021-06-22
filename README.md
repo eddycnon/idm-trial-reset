@@ -6,7 +6,7 @@ Use this tool to reset the trial period of Internet Download Manager (IDM). It i
 
 ## Download
 
-The latest version of this reset tool is here: [Internet Download Manager (IDM Trial Resetter)](https://www.trialresetter.com/idm-trial-resetter/). Visit the website and follow the steps to install the tool and reset your IDM.
+The latest version of this reset tool is here: [Internet Download Manager (IDM Trial Resetter)](https://www.trialresetter.com/idm-trial-resetter/). Therefore, if you want to get the trial resetter for IDM you need to visit the website and get the tool from there. Above all, this reset tool is free.
 
 ## Steps
 
